@@ -1,45 +1,16 @@
-# Hello! 👋 I'm José Neto
+# 💫 About Me:
+# Hello! 👋 I'm José Neto<br><br>Welcome to my GitHub profile! Here, you'll find a showcase of my skills, experiences, and projects. <br><br>## 👨‍💻 Skills<br>- **Programming Languages:**<br>  - Java (Spring Boot)<br>  - Python<br>  - JavaScript (React, Angular)<br><br>- **Databases:**<br>  - PostgreSQL<br>  - MongoDB<br>  - Oracle<br><br>- **DevOps Tools:**<br>  - Docker<br>  - AWS<br>  - Kubernetes<br>  - CI/CD<br><br>- **Messaging Systems:**<br>  - RabbitMQ<br>  - Kafka<br><br>## 🧑‍🎓 Education<br>- **Bachelor of Science and Technology (finished)**  <br>  Universidade Federal Rural do Semi-Árido (UFERSA)<br>  <br>- **Bachelor of Computer Engineering (in progress)**  <br>  Universidade Federal Rural do Semi-Árido (UFERSA)
 
-Welcome to my GitHub profile! Here, you'll find a showcase of my skills, experiences, and projects. 
 
-## 👨‍💻 Skills
-- **Programming Languages:**
-  - Java (Spring Boot)
-  - Python
-  - JavaScript (React, Angular)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devzeneto) 
 
-- **Databases:**
-  - PostgreSQL
-  - MongoDB
-  - Oracle
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zenetodev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zenetodev&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zenetodev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **DevOps Tools:**
-  - Docker
-  - AWS
-  - Kubernetes
-  - CI/CD
 
-- **Messaging Systems:**
-  - RabbitMQ
-  - Kafka
-
-## 🧑‍🎓 Education
-- **Bachelor of Science and Technology (finished)**  
-  Universidade Federal Rural do Semi-Árido (UFERSA)
-  
-- **Bachelor of Computer Engineering (in progress)**  
-  Universidade Federal Rural do Semi-Árido (UFERSA)
-
-## 💼 Recent Experience
-I have worked as a full-stack developer at **Agência Xplore**, where I gained hands-on experience in developing scalable applications using Java/Spring Boot for the backend and React/Angular for the frontend. My role involved collaboration with cross-functional teams to deliver high-quality products and improving project workflows with CI/CD practices.
-
-## 🌟 Project Highlights
-- **[Email Classifier](https://github.com/zenetodev/emailclassifier)**: A machine learning project that classifies emails into various categories.
-- **[Emprestimo API](https://github.com/zenetodev/empresimoapi)**: A RESTful API for loan management with back-end solutions implemented in Spring Boot.
-- Other notable Java projects showcasing backend technologies and effective database management.
-
-## 📫 Contact Information
-- **Email:** jsneto.devv@gmail.com  
-- **LinkedIn:** [linkedin.com/in/zenetodev](https://www.linkedin.com/in/zenetodev)   
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or learn more.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
