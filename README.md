@@ -1,18 +1,45 @@
-# 💫 About Me:
-Hey! I'm Zeneto, a Computer Engineering student at UFERSA who’s truly passionate about technology and how it can make life better.<br><br>At the moment, I’m focused on learning and praticing Java and its entire ecosystem. I'm exploring tools and frameworks like:<br><br>☕ Java <br><br>🌱 Spring Framework & Spring Boot<br><br>🐘 PostgreSQL and 🐬 MySQL<br><br>🐳 Docker<br><br>☁️ AWS basics<br><br>🔐 Best practices for clean and secure code<br><br>I'm that type of person who learns by doing, building projects, making mistakes, fixing bugs and growing from all that. I’m slowly building my GitHub with things I’m proud of.
+# Hello! 👋 I'm José Neto
 
+Welcome to my GitHub profile! Here, you'll find a showcase of my skills, experiences, and projects. 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zenetiin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozeneto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devzeneto) 
+## 👨‍💻 Skills
+- **Programming Languages:**
+  - Java (Spring Boot)
+  - Python
+  - JavaScript (React, Angular)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zenetodev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zenetodev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenetodev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- **Databases:**
+  - PostgreSQL
+  - MongoDB
+  - Oracle
 
----
-[![](https://visitcount.itsvg.in/api?id=zenetodev&icon=2&color=0)](https://visitcount.itsvg.in)
+- **DevOps Tools:**
+  - Docker
+  - AWS
+  - Kubernetes
+  - CI/CD
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Messaging Systems:**
+  - RabbitMQ
+  - Kafka
+
+## 🧑‍🎓 Education
+- **Bachelor of Science and Technology (finished)**  
+  Universidade Federal Rural do Semi-Árido (UFERSA)
+  
+- **Bachelor of Computer Engineering (in progress)**  
+  Universidade Federal Rural do Semi-Árido (UFERSA)
+
+## 💼 Recent Experience
+I have worked as a full-stack developer at **Agência Xplore**, where I gained hands-on experience in developing scalable applications using Java/Spring Boot for the backend and React/Angular for the frontend. My role involved collaboration with cross-functional teams to deliver high-quality products and improving project workflows with CI/CD practices.
+
+## 🌟 Project Highlights
+- **[Email Classifier](https://github.com/zenetodev/emailclassifier)**: A machine learning project that classifies emails into various categories.
+- **[Emprestimo API](https://github.com/zenetodev/empresimoapi)**: A RESTful API for loan management with back-end solutions implemented in Spring Boot.
+- Other notable Java projects showcasing backend technologies and effective database management.
+
+## 📫 Contact Information
+- **Email:** jsneto.devv@gmail.com  
+- **LinkedIn:** [linkedin.com/in/zenetodev](https://www.linkedin.com/in/zenetodev)   
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or learn more.
